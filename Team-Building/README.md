@@ -48,7 +48,7 @@
 
 #### [TBDM-New-Year-003]
 
-    ![DQ: Resolutions](./images/dq-ruining-resolutions.jpg)
+![DQ: Resolutions](./images/dq-ruining-resolutions.jpg)
 
 #### [TBDM-New-Year-004]
 
